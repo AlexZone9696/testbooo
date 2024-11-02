@@ -1,0 +1,3 @@
+Flask
+tronpy
+python-telegram-bot
